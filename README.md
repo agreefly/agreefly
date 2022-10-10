@@ -5,6 +5,4 @@
 - 📫 How to reach me patchouks@gmail.com
 
 <!---
-agreefly/agreefly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+agreefly/agreefly is a revolutionizing the travel industry. Metasearch for travel
